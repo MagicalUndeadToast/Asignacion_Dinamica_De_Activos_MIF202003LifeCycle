@@ -1,0 +1,2 @@
+# Asignacion_Dinamica_De_Activos_MIF202003LifeCycle
+El proyecto
